@@ -134,7 +134,7 @@ def main():
     df['_date'] = pd.to_datetime(df['Date'], dayfirst=True, errors='coerce')
 
     # Create sorting buttons
-    columns = ['Event', 'Time', 'Category', 'Club', 'Region', 'Location', 'Date']
+    columns = ['Event', 'Time', 'Cat', 'Club', 'Reg', 'Loc', 'Date']
     cols = st.columns(7)
     for i, col in enumerate(columns):
         with cols[i]:
