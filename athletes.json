@@ -1,36 +1,36 @@
 {
   "Étienne DAGUINOS": [
-    {"Event": "800m", "Time": "1'48''23", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Pessac", "Date": "26/06/2024"},
-    {"Event": "1500m", "Time": "3'35''12", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Montreuil", "Date": "10/06/2025"},
-    {"Event": "3000m Indoor", "Time": "7'43''42", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Metz", "Date": "03/02/2024"},
-    {"Event": "5000m", "Time": "12'55''76", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Monaco (MON)", "Date": "11/07/2025"},
-    {"Event": "5km Road", "Time": "13'25''", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Riga (LAT)", "Date": "01/10/2023"},
-    {"Event": "10000m", "Time": "28'42''49", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Pace", "Date": "03/06/2023"},
-    {"Event": "10km Road", "Time": "27'04''", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Lille", "Date": "16/11/2024"},
-    {"Event": "20km Road", "Time": "58'28''", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Paris", "Date": "08/10/2023"},
-    {"Event": "1/2 Marathon", "Time": "59'46''", "Category": "SE", "Club": "US Talence", "Region": "N-A / 033", "Location": "Valence (ESP)", "Date": "27/10/2024"}
+    {"Event": "800m", "Time": "1'48''23", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Pessac", "Date": "26/06/2024"},
+    {"Event": "1500m", "Time": "3'35''12", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Montreuil", "Date": "10/06/2025"},
+    {"Event": "3000m Indoor", "Time": "7'43''42", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Metz", "Date": "03/02/2024"},
+    {"Event": "5000m", "Time": "12'55''76", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Monaco (MON)", "Date": "11/07/2025"},
+    {"Event": "5km Road", "Time": "13'25''", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Riga (LAT)", "Date": "01/10/2023"},
+    {"Event": "10000m", "Time": "28'42''49", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Pace", "Date": "03/06/2023"},
+    {"Event": "10km Road", "Time": "27'04''", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Lille", "Date": "16/11/2024"},
+    {"Event": "20km Road", "Time": "58'28''", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Paris", "Date": "08/10/2023"},
+    {"Event": "1/2 Marathon", "Time": "59'46''", "Cat": "SE", "Club": "US Talence", "Reg": "N-A / 033", "Loc": "Valence (ESP)", "Date": "27/10/2024"}
   ],
   "Jimmy GRESSIER": [
-    {"Event": "1000m", "Time": "2'18''87", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Milan (ITA)", "Date": "27/04/2024"},
-    {"Event": "1500m", "Time": "3'33''90", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Montesson", "Date": "10/06/2023"},
-    {"Event": "1500m Indoor", "Time": "3'37''41", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Metz", "Date": "12/02/2022"},
-    {"Event": "2000m Indoor", "Time": "4'57''97", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Lievin", "Date": "17/02/2022"},
-    {"Event": "3000m Indoor", "Time": "7'30''18", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "New york (USA)", "Date": "08/02/2025"},
-    {"Event": "5000m", "Time": "12'51''59", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Paris", "Date": "20/06/2025"},
-    {"Event": "5000m Indoor", "Time": "12'54''92", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Boston (USA)", "Date": "14/02/2025"},
-    {"Event": "5km Road", "Time": "12'57''", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Lille", "Date": "16/03/2025"},
-    {"Event": "10000m", "Time": "26'58''67", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Saint denis", "Date": "02/08/2024"},
-    {"Event": "10km Road", "Time": "27'07''", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Lille", "Date": "17/03/2024"},
-    {"Event": "1/2 Marathon", "Time": "59'45''", "Category": "SE", "Club": "Boulogne/Mer AC", "Region": "H-F / 062", "Location": "Louvain (BEL)", "Date": "12/04/2025"}
+    {"Event": "1000m", "Time": "2'18''87", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Milan (ITA)", "Date": "27/04/2024"},
+    {"Event": "1500m", "Time": "3'33''90", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Montesson", "Date": "10/06/2023"},
+    {"Event": "1500m Indoor", "Time": "3'37''41", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Metz", "Date": "12/02/2022"},
+    {"Event": "2000m Indoor", "Time": "4'57''97", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Lievin", "Date": "17/02/2022"},
+    {"Event": "3000m Indoor", "Time": "7'30''18", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "New york (USA)", "Date": "08/02/2025"},
+    {"Event": "5000m", "Time": "12'51''59", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Paris", "Date": "20/06/2025"},
+    {"Event": "5000m Indoor", "Time": "12'54''92", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Boston (USA)", "Date": "14/02/2025"},
+    {"Event": "5km Road", "Time": "12'57''", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Lille", "Date": "16/03/2025"},
+    {"Event": "10000m", "Time": "26'58''67", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Saint denis", "Date": "02/08/2024"},
+    {"Event": "10km Road", "Time": "27'07''", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Lille", "Date": "17/03/2024"},
+    {"Event": "1/2 Marathon", "Time": "59'45''", "Cat": "SE", "Club": "Boulogne/Mer AC", "Reg": "H-F / 062", "Loc": "Louvain (BEL)", "Date": "12/04/2025"}
   ],
   "Yann SCHRUB": [
-    {"Event": "1500m", "Time": "3'31''42", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Decines", "Date": "05/07/2025"},
-    {"Event": "3000m Indoor", "Time": "7'35''11", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Metz", "Date": "08/02/2025"},
-    {"Event": "5000m", "Time": "12'56''57", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Paris", "Date": "20/06/2025"},
-    {"Event": "5km Road", "Time": "13'00''", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Lille", "Date": "16/03/2025"},
-    {"Event": "10000m", "Time": "27'47''13", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Munich (GER)", "Date": "21/08/2022"},
-    {"Event": "10km Road", "Time": "27'37''", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Louvain (BEL)", "Date": "13/04/2025"},
-    {"Event": "20km Road", "Time": "58'04''", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Paris", "Date": "09/10/2022"},
-    {"Event": "1/2 Marathon", "Time": "62'30''", "Category": "SE", "Club": "Athlé Sarreguemines", "Region": "G-E / 057", "Location": "Nancy", "Date": "20/03/2022"}
+    {"Event": "1500m", "Time": "3'31''42", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Decines", "Date": "05/07/2025"},
+    {"Event": "3000m Indoor", "Time": "7'35''11", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Metz", "Date": "08/02/2025"},
+    {"Event": "5000m", "Time": "12'56''57", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Paris", "Date": "20/06/2025"},
+    {"Event": "5km Road", "Time": "13'00''", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Lille", "Date": "16/03/2025"},
+    {"Event": "10000m", "Time": "27'47''13", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Munich (GER)", "Date": "21/08/2022"},
+    {"Event": "10km Road", "Time": "27'37''", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Louvain (BEL)", "Date": "13/04/2025"},
+    {"Event": "20km Road", "Time": "58'04''", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Paris", "Date": "09/10/2022"},
+    {"Event": "1/2 Marathon", "Time": "62'30''", "Cat": "SE", "Club": "Athlé Sarreguemines", "Reg": "G-E / 057", "Loc": "Nancy", "Date": "20/03/2022"}
   ]
 }
